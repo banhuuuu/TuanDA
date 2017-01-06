@@ -13,6 +13,7 @@ namespace congcom
 {
     public partial class Form1 : Form
     {
+        // bo xung/
         // So le hien thi /
         const int LED_1 = 0;
         const int LED_2 = 1;
